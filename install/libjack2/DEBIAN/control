@@ -1,0 +1,15 @@
+Package: libjack2-android
+Maintainer: Pavel V Samsonov <pvsamsonov76@gmail.com>
+Architecture: arm64
+Replaces: libjack0,
+	libjack-jackd2
+Depends:
+Version: 1.0
+Section: sound
+Priority: optional
+Description: JACK Audio Connection Kit (client library)
+ JACK is a low-latency sound server, allowing multiple applications to
+ connect to one audio device, and to share audio between themselves.
+ .
+ This package contains the client library.
+

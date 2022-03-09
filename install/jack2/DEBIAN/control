@@ -1,0 +1,18 @@
+Package: jack2-android
+Maintainer: Pavel V Samsonov <pvsamsonov76@gmail.com>
+Architecture: arm64
+Replaces: jackd,
+	jack-daemon,
+	jackd2,
+	jackd2-firewire
+Depends:
+Version: 1-android7
+Section: sound
+Priority: optional
+Description: JACK Audio Connection Kit (server and example clients)
+ JACK is a low-latency sound server, allowing multiple applications to
+ connect to one audio device, and to share audio between themselves.
+ .
+ This package contains the daemon jackd as well as some example for 
+ android clients.
+
