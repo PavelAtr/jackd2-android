@@ -27,7 +27,7 @@ make
 make install
 
 cd $CWD/libbthread
-make clean
+make clean || true
 autoreconf -i
 ./configure --prefix=/usr --host=$TARGET
 make
