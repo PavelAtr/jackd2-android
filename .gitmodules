@@ -1,0 +1,9 @@
+[submodule "android-shm"]
+	path = android-shm
+	url = https://github.com/PavelAtr/android-shm.git
+[submodule "jack2"]
+	path = jack2
+	url = https://github.com/PavelAtr/jack2.git
+[submodule "libbthread"]
+	path = libbthread
+	url = https://github.com/tux-mind/libbthread.git
