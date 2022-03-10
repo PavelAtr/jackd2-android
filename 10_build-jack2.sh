@@ -51,4 +51,4 @@ android/JackOpenSLESDriver.cpp android/opensl_io.c \
 
 cd $CWD
 
-dpkg-deb --build $INSTALL_DIR jack2-android_1-android7_$DEBARCH.deb
+dpkg-deb --build $INSTALL_DIR jack2-android_1.0-android9_$DEBARCH.deb

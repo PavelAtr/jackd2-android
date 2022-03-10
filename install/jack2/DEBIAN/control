@@ -6,7 +6,7 @@ Replaces: jackd,
 	jackd2,
 	jackd2-firewire
 Depends:
-Version: 1-android7
+Version: 1.0-android9
 Section: sound
 Priority: optional
 Description: JACK Audio Connection Kit (server and example clients)
